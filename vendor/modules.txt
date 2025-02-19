@@ -32,3 +32,4 @@ golang.org/x/sys/windows
 ## explicit; go 1.17
 golang.org/x/term
 Изменение №1 первая ветка
+Изменение №2 первая ветка
